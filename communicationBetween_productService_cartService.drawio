@@ -12,6 +12,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="seeg1bBNV1r2v_DMWdt_-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="seeg1bBNV1r2v_DMWdt_-2" target="seeg1bBNV1r2v_DMWdt_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="seeg1bBNV1r2v_DMWdt_-16" value="Add Event To Stream" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="seeg1bBNV1r2v_DMWdt_-15">
+          <mxGeometry x="-0.037" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="seeg1bBNV1r2v_DMWdt_-2" value="Cart Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="555" width="120" height="60" as="geometry" />
         </mxCell>
@@ -45,8 +53,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="seeg1bBNV1r2v_DMWdt_-13" value="Customer Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="seeg1bBNV1r2v_DMWdt_-14" value="Kafka Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
