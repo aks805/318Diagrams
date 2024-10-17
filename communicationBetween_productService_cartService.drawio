@@ -53,7 +53,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="seeg1bBNV1r2v_DMWdt_-14" value="Kafka Stream" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="seeg1bBNV1r2v_DMWdt_-14" value="Kafka Stream&lt;div&gt;Cart-Events&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="420" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
