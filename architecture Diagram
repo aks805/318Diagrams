@@ -13,7 +13,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-2" target="H2GiZfiAseimiRBvb1Hf-1">
           <mxGeometry relative="1" as="geometry" />
@@ -23,16 +23,8 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-2" target="H2GiZfiAseimiRBvb1Hf-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-52" value="HTTP Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2GiZfiAseimiRBvb1Hf-51">
-          <mxGeometry x="-0.3673" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-2" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="H2GiZfiAseimiRBvb1Hf-2" value="API Gateway /&amp;nbsp;&lt;div&gt;Eureka Client&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-4" target="H2GiZfiAseimiRBvb1Hf-21">
           <mxGeometry relative="1" as="geometry">
@@ -92,9 +84,9 @@
         <mxCell id="H2GiZfiAseimiRBvb1Hf-20" value="Cart&amp;nbsp;&lt;div&gt;Repo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="130" y="710" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-21" target="H2GiZfiAseimiRBvb1Hf-30">
+        <mxCell id="H2GiZfiAseimiRBvb1Hf-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-21" target="H2GiZfiAseimiRBvb1Hf-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="384" y="410" as="targetPoint" />
+            <mxPoint x="384" y="400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-42" value="Sends Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2GiZfiAseimiRBvb1Hf-37">
@@ -142,24 +134,15 @@
         <mxCell id="H2GiZfiAseimiRBvb1Hf-21" value="Eureka Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-30" target="H2GiZfiAseimiRBvb1Hf-21">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="H2GiZfiAseimiRBvb1Hf-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-2" target="H2GiZfiAseimiRBvb1Hf-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="444" y="400" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-39" value="Routes Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2GiZfiAseimiRBvb1Hf-38">
           <mxGeometry x="-0.6321" y="3" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-30" target="H2GiZfiAseimiRBvb1Hf-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-45" value="Sends Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2GiZfiAseimiRBvb1Hf-43">
-          <mxGeometry x="-0.0333" relative="1" as="geometry">
-            <mxPoint y="14" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-30" value="Eureka Client" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-79" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=elbowEdgeStyle;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="H2GiZfiAseimiRBvb1Hf-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
