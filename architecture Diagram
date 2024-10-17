@@ -26,7 +26,7 @@
         <mxCell id="H2GiZfiAseimiRBvb1Hf-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-2" target="H2GiZfiAseimiRBvb1Hf-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-2" value="API Gateway /&amp;nbsp;&lt;div&gt;Eureka Client&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H2GiZfiAseimiRBvb1Hf-2" value="API Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-4" target="H2GiZfiAseimiRBvb1Hf-2">
