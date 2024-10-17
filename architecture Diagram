@@ -64,7 +64,7 @@
             <mxPoint x="-102" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-7" value="Analytics Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="H2GiZfiAseimiRBvb1Hf-7" value="Analytics Service&lt;div&gt;(Kafka Stream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="650" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-18" value="Customer Repo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
