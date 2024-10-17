@@ -36,11 +36,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-88" value="Sends Response" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2GiZfiAseimiRBvb1Hf-87">
-          <mxGeometry x="0.2247" y="1" relative="1" as="geometry">
-            <mxPoint x="-54" y="-239" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-4" value="Cart Service" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="500" width="120" height="60" as="geometry" />
         </mxCell>
