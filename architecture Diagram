@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0.1 Safari/605.1.15" version="24.7.17">
   <diagram name="Page-1" id="WcmE96kVk1BoaPlctqWl">
-    <mxGraphModel dx="1144" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-7" value="Analytics Service&lt;div&gt;(Kafka Stream)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="800" y="500" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-18" value="Customer Repo" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="440" y="710" width="60" height="80" as="geometry" />
@@ -132,18 +132,18 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H2GiZfiAseimiRBvb1Hf-83" value="" style="edgeStyle=orthogonalEdgeStyle;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="H2GiZfiAseimiRBvb1Hf-21">
+        <mxCell id="H2GiZfiAseimiRBvb1Hf-83" value="" style="edgeStyle=orthogonalEdgeStyle;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=elbowEdgeStyle;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-7" target="H2GiZfiAseimiRBvb1Hf-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="690" as="sourcePoint" />
             <mxPoint x="560" y="640" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="680" y="590" />
+              <mxPoint x="830" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-84" value="Registers" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="H2GiZfiAseimiRBvb1Hf-83">
           <mxGeometry x="0.2793" relative="1" as="geometry">
-            <mxPoint x="-22" y="-5" as="offset" />
+            <mxPoint x="-66" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H2GiZfiAseimiRBvb1Hf-85" value="" style="edgeStyle=orthogonalEdgeStyle;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;edgeStyle=elbowEdgeStyle;entryX=0;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="H2GiZfiAseimiRBvb1Hf-4" target="H2GiZfiAseimiRBvb1Hf-21">
